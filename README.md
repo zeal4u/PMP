@@ -18,7 +18,10 @@ This repository contains the source code accompanying the following paper:
 ```
 <br/>
 
-This source code includes the implementation of our proposal, named **PMP**. Everything is implemented on top of a modified version of the [ChampSim](https://github.com/ChampSim/ChampSim) simulator.
+This source code includes the implementation of our proposal, named **PMP**. 
+All traces used in our paper are listed in `trace_list` directory, please see also **Benchmarks** subsection in our paper for downloading these traces.
+
+Everything is implemented on top of a modified version of the [ChampSim](https://github.com/ChampSim/ChampSim) simulator.
 <br/>
 
 *Please cite our paper if you use this code in your own work.*
